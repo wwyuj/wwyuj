@@ -125,15 +125,6 @@
     <ul class="sub-nav menus_item_child ">
       
       <li>
-        <a href="/music"  >
-          
-          <i class="fas fa-music" style="margin-top: -20px; zoom: 0.6;"></i>
-          
-          <span>音乐</span>
-        </a>
-      </li>
-      
-      <li>
         <a href="/galleries"  >
           
           <i class="fas fa-image" style="margin-top: -20px; zoom: 0.6;"></i>
@@ -291,16 +282,6 @@
 			<span class="m-icon"><i class="fas fa-chevron-right"></i></span>
 		</a>
             <ul  >
-              
-                <li>
-
-                  <a href="/music " style="margin-left:75px">
-				  
-				   <i class="fa fas fa-music" style="position: absolute;left:50px" ></i>
-			      
-		          <span>音乐</span>
-                  </a>
-                </li>
               
                 <li>
 
@@ -690,7 +671,7 @@ ubuntu更换为国类源1.备份原来的源sudo cp /etc/apt/sources.list /etc/a
         }
 
         coverSlider.carousel({
-            duration: Number('120'),
+            duration: Number('180'),
             fullWidth: true,
             indicators: 'true' === 'true',
             onCycleTo() {
@@ -708,7 +689,7 @@ ubuntu更换为国类源1.备份原来的源sudo cp /etc/apt/sources.list /etc/a
         let autoCarousel = function () {
             carouselIntervalId = setInterval(function () {
                 coverSlider.carousel('next');
-            }, 5000);
+            }, 10000);
         };
         autoCarousel();
         
