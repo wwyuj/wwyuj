@@ -473,11 +473,11 @@
                 
                 
                 
-                <a href="/categories/%E5%8D%9A%E5%AE%A2/" title="博客: 1">
+                <a href="/categories/%E5%8D%9A%E5%AE%A2/" title="博客: 2">
                     <span class="chip center-align waves-effect waves-light
                              chip-active "
                             style="background-color: #F9EBEA;">博客
-                        <span class="tag-length">1</span>
+                        <span class="tag-length">2</span>
                     </span>
                 </a>
                 
@@ -537,6 +537,61 @@
 
     <article id="articles" class="container articles">
         <div class="row tags-posts">
+            
+            <div class="article tag-post col s12 m6 l4" data-aos="zoom-in">
+                <div class="card">
+                    <a href="/2020/12/21/next-zhu-ti-xiang-xi-pei-zhi/">
+                        <div class="card-image tag-image">
+                            
+                            
+                            <img src="/medias/featureimages/9.jpg" class="responsive-img" alt="next主题配置">
+                            
+                            <span class="card-title">next主题配置</span>
+                        </div>
+                    </a>
+                    <div class="card-content article-content">
+                        <div class="summary block-with-text">
+                            
+                                一、初始化博客# 以下均在e盘下面操作
+mkdir mybolg-next
+cd mybolg-next
+hexo init
+# 解决卡住
+npm config set registry http://registry.npm.taobao
+                            
+                        </div>
+                        <div class="publish-info">
+                            <span class="publish-date">
+                                <i class="far fa-clock fa-fw icon-date"></i>2020-12-21
+                            </span>
+                            <span class="publish-author">
+                                
+                                <i class="fas fa-bookmark fa-fw icon-category"></i>
+                                
+                                <a href="/categories/%E5%8D%9A%E5%AE%A2/" class="post-category">
+                                    博客
+                                </a>
+                                
+                                
+                            </span>
+                        </div>
+                    </div>
+
+                    
+                    <div class="card-action article-tags">
+                        
+                        <a href="/tags/%E8%81%8A%E6%8A%80%E6%9C%AF/">
+                            <span class="chip bg-color">聊技术</span>
+                        </a>
+                        
+                        <a href="/tags/%E5%8D%9A%E5%AE%A2/">
+                            <span class="chip bg-color">博客</span>
+                        </a>
+                        
+                    </div>
+                    
+                </div>
+            </div>
             
             <div class="article tag-post col s12 m6 l4" data-aos="zoom-in">
                 <div class="card">
@@ -611,7 +666,7 @@ More info: Writing
             <br>
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">2.7k</span>&nbsp;字
+                class="white-color">7.3k</span>&nbsp;字
             
             
             
@@ -758,7 +813,7 @@ More info: Writing
             <span class="badge-subject"><i class="fa fa-copyright"></i></span><span class="badge-value bg-lightgrey">BY-NC-SA 4.0</span></a>
           </div>
           <div class="github-badge">
-            <span class="badge-subject">WordCount</span><span class="badge-value bg-blueviolet">2.7k</span>
+            <span class="badge-subject">WordCount</span><span class="badge-value bg-blueviolet">7.3k</span>
           </div>
         </div>
     </div>
@@ -1050,22 +1105,22 @@ $(function () {
     <script src="https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js"></script>
     <!-- pjax：防止跳转页面音乐暂停 -->
     <!-- <script src="https://cdn.jsdelivr.net/npm/pjax@0.2.8/pjax.js"></script>  -->
-    <div id="tp-weather-widget"></div>
-    <script>
-        (function(a,h,g,f,e,d,c,b){b=function(){d=h.createElement(g);c=h.getElementsByTagName(g)[0];d.src=e;d.charset="utf-8";d.async=1;c.parentNode.insertBefore(d,c)};a["SeniverseWeatherWidgetObject"]=f;a[f]||(a[f]=function(){(a[f].q=a[f].q||[]).push(arguments)});a[f].l=+new Date();if(a.attachEvent){a.attachEvent("onload",b)}else{a.addEventListener("load",b,false)}}(window,document,"script","SeniverseWeatherWidget","//cdn.sencdn.com/widget2/static/js/bundle.js?t="+parseInt((new Date().getTime() / 100000000).toString(),10)));
-        window.SeniverseWeatherWidget('show', {
-        flavor: "bubble",
-        location: "WX4FBXXFKE4F",
-        geolocation: true,
-        language: "zh-Hans",
-        unit: "c",
-        theme: "auto",
-        token: "48833b67-2e53-4ee5-aa9c-91763ab7a9dd",
-        hover: "enabled",
-        container: "tp-weather-widget"
-        })
-    </script>
+
     
 </body>
-
+<div id="tp-weather-widget"></div>
+<script>
+    (function(a,h,g,f,e,d,c,b){b=function(){d=h.createElement(g);c=h.getElementsByTagName(g)[0];d.src=e;d.charset="utf-8";d.async=1;c.parentNode.insertBefore(d,c)};a["SeniverseWeatherWidgetObject"]=f;a[f]||(a[f]=function(){(a[f].q=a[f].q||[]).push(arguments)});a[f].l=+new Date();if(a.attachEvent){a.attachEvent("onload",b)}else{a.addEventListener("load",b,false)}}(window,document,"script","SeniverseWeatherWidget","//cdn.sencdn.com/widget2/static/js/bundle.js?t="+parseInt((new Date().getTime() / 100000000).toString(),10)));
+    window.SeniverseWeatherWidget('show', {
+    flavor: "bubble",
+    location: "WX4FBXXFKE4F",
+    geolocation: true,
+    language: "zh-Hans",
+    unit: "c",
+    theme: "auto",
+    token: "48833b67-2e53-4ee5-aa9c-91763ab7a9dd",
+    hover: "enabled",
+    container: "tp-weather-widget"
+    })
+</script>
 </html>

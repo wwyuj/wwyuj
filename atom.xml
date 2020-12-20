@@ -6,7 +6,7 @@
   <link href="https://jackyu123.gitee.io/atom.xml" rel="self"/>
   
   <link href="https://jackyu123.gitee.io/"/>
-  <updated>2020-12-18T20:14:36.967Z</updated>
+  <updated>2020-12-20T19:36:24.011Z</updated>
   <id>https://jackyu123.gitee.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>next主题配置</title>
+    <link href="https://jackyu123.gitee.io/2020/12/21/next-zhu-ti-xiang-xi-pei-zhi/"/>
+    <id>https://jackyu123.gitee.io/2020/12/21/next-zhu-ti-xiang-xi-pei-zhi/</id>
+    <published>2020-12-20T23:55:43.000Z</published>
+    <updated>2020-12-20T19:36:24.011Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="博客" scheme="https://jackyu123.gitee.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="聊技术" scheme="https://jackyu123.gitee.io/tags/%E8%81%8A%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="博客" scheme="https://jackyu123.gitee.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>HEXO常用命令</title>
