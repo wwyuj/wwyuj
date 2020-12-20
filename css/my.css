@@ -1,0 +1,9 @@
+/* Here is your custom css styles. */
+@font-face{
+    font-family: '楷体';
+    src: url('../font/myFont.ttf');
+}
+
+body{
+    font-family: '楷体';
+}
