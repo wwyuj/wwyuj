@@ -671,7 +671,7 @@ ubuntu更换为国类源1.备份原来的源sudo cp /etc/apt/sources.list /etc/a
         }
 
         coverSlider.carousel({
-            duration: Number('180'),
+            duration: Number('120'),
             fullWidth: true,
             indicators: 'true' === 'true',
             onCycleTo() {
@@ -689,7 +689,7 @@ ubuntu更换为国类源1.备份原来的源sudo cp /etc/apt/sources.list /etc/a
         let autoCarousel = function () {
             carouselIntervalId = setInterval(function () {
                 coverSlider.carousel('next');
-            }, 10000);
+            }, 5000);
         };
         autoCarousel();
         
