@@ -6,7 +6,7 @@
   <link href="https://jackyu123.gitee.io/atom.xml" rel="self"/>
   
   <link href="https://jackyu123.gitee.io/"/>
-  <updated>2020-12-20T19:36:24.011Z</updated>
+  <updated>2020-12-21T17:42:10.434Z</updated>
   <id>https://jackyu123.gitee.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>围棋少年</title>
+    <link href="https://jackyu123.gitee.io/2020/12/21/wei-qi-shao-nian-01/"/>
+    <id>https://jackyu123.gitee.io/2020/12/21/wei-qi-shao-nian-01/</id>
+    <published>2020-12-21T15:56:32.000Z</published>
+    <updated>2020-12-21T17:42:10.434Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="视频" scheme="https://jackyu123.gitee.io/categories/%E8%A7%86%E9%A2%91/"/>
+    
+    <category term="动画" scheme="https://jackyu123.gitee.io/categories/%E8%A7%86%E9%A2%91/%E5%8A%A8%E7%94%BB/"/>
+    
+    
+    <category term="视频" scheme="https://jackyu123.gitee.io/tags/%E8%A7%86%E9%A2%91/"/>
+    
+    <category term="动画" scheme="https://jackyu123.gitee.io/tags/%E5%8A%A8%E7%94%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>next主题配置</title>
