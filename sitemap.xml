@@ -2,9 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jackyu123.gitee.io/2020/12/18/hexo-chang-yong-ming-ling/</loc>
+    
+    <lastmod>2020-12-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jackyu123.gitee.io/2020/08/31/wei-shi-me-yao-zhu-chong-zhuan-ce-zhi-liang/</loc>
+    
+    <lastmod>2020-12-22</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://jackyu123.gitee.io/2020/12/21/wei-qi-shao-nian-01/</loc>
     
-    <lastmod>2020-12-21</lastmod>
+    <lastmod>2020-12-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jackyu123.gitee.io/2020/09/22/di-yi-zhang-han-shu-yu-ji-xian/</loc>
+    
+    <lastmod>2020-12-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jackyu123.gitee.io/2020/08/30/chu-shi-python/</loc>
+    
+    <lastmod>2020-12-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jackyu123.gitee.io/2020/09/22/2022-xi-dian-kao-yan-ji-hua/</loc>
+    
+    <lastmod>2020-12-22</lastmod>
     
   </url>
   
@@ -12,20 +47,6 @@
     <loc>https://jackyu123.gitee.io/2020/12/21/next-zhu-ti-xiang-xi-pei-zhi/</loc>
     
     <lastmod>2020-12-20</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jackyu123.gitee.io/2020/08/31/wei-shi-me-yao-zhu-chong-zhuan-ce-zhi-liang/</loc>
-    
-    <lastmod>2020-12-19</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jackyu123.gitee.io/2020/09/22/2022-xi-dian-kao-yan-ji-hua/</loc>
-    
-    <lastmod>2020-12-19</lastmod>
     
   </url>
   
@@ -45,13 +66,6 @@
   
   <url>
     <loc>https://jackyu123.gitee.io/2020/09/12/ubuntu-geng-huan-wei-guo-lei-yuan/</loc>
-    
-    <lastmod>2020-12-18</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jackyu123.gitee.io/2020/12/18/hexo-chang-yong-ming-ling/</loc>
     
     <lastmod>2020-12-18</lastmod>
     
@@ -121,20 +135,6 @@
   </url>
   
   <url>
-    <loc>https://jackyu123.gitee.io/2020/08/30/chu-shi-python/</loc>
-    
-    <lastmod>2020-11-20</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jackyu123.gitee.io/2020/09/22/di-yi-zhang-han-shu-yu-ji-xian/</loc>
-    
-    <lastmod>2020-10-23</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://jackyu123.gitee.io/galleries/%E4%B9%96%E5%B7%A7%E5%B0%8F%E7%8B%97/index.html</loc>
     
     <lastmod>2020-10-08</lastmod>
@@ -142,14 +142,14 @@
   </url>
   
   <url>
-    <loc>https://jackyu123.gitee.io/galleries/%E5%8A%A8%E6%BC%AB%E4%BA%BA%E7%89%A9/index.html</loc>
+    <loc>https://jackyu123.gitee.io/galleries/%E4%BA%8C%E6%AC%A1%E5%85%83%E9%A3%8E/index.html</loc>
     
     <lastmod>2020-10-08</lastmod>
     
   </url>
   
   <url>
-    <loc>https://jackyu123.gitee.io/galleries/%E4%BA%8C%E6%AC%A1%E5%85%83%E9%A3%8E/index.html</loc>
+    <loc>https://jackyu123.gitee.io/galleries/%E5%8A%A8%E6%BC%AB%E4%BA%BA%E7%89%A9/index.html</loc>
     
     <lastmod>2020-10-08</lastmod>
     
