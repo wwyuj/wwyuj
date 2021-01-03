@@ -6,7 +6,7 @@
   <link href="https://jackyu123.gitee.io/atom.xml" rel="self"/>
   
   <link href="https://jackyu123.gitee.io/"/>
-  <updated>2021-01-02T14:29:50.178Z</updated>
+  <updated>2021-01-03T09:23:51.842Z</updated>
   <id>https://jackyu123.gitee.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>视频链接</title>
+    <link href="https://jackyu123.gitee.io/2021/01/03/shi-pin-lian-jie/"/>
+    <id>https://jackyu123.gitee.io/2021/01/03/shi-pin-lian-jie/</id>
+    <published>2021-01-03T08:17:18.000Z</published>
+    <updated>2021-01-03T09:23:51.842Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="视频" scheme="https://jackyu123.gitee.io/categories/%E8%A7%86%E9%A2%91/"/>
+    
+    <category term="链接" scheme="https://jackyu123.gitee.io/categories/%E8%A7%86%E9%A2%91/%E9%93%BE%E6%8E%A5/"/>
+    
+    
+    <category term="视频" scheme="https://jackyu123.gitee.io/tags/%E8%A7%86%E9%A2%91/"/>
+    
+    <category term="链接" scheme="https://jackyu123.gitee.io/tags/%E9%93%BE%E6%8E%A5/"/>
+    
+  </entry>
   
   <entry>
     <title>数学一总纲</title>
@@ -546,35 +575,6 @@
     <id>https://jackyu123.gitee.io/2020/12/22/wei-qi-shao-nian-di-11-ji-shi-xiong-di-de-dui-jue/</id>
     <published>2020-12-22T08:17:30.000Z</published>
     <updated>2020-12-22T08:17:38.249Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="视频" scheme="https://jackyu123.gitee.io/categories/%E8%A7%86%E9%A2%91/"/>
-    
-    <category term="动画" scheme="https://jackyu123.gitee.io/categories/%E8%A7%86%E9%A2%91/%E5%8A%A8%E7%94%BB/"/>
-    
-    
-    <category term="视频" scheme="https://jackyu123.gitee.io/tags/%E8%A7%86%E9%A2%91/"/>
-    
-    <category term="动画" scheme="https://jackyu123.gitee.io/tags/%E5%8A%A8%E7%94%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>围棋少年-第10集-阴谋</title>
-    <link href="https://jackyu123.gitee.io/2020/12/22/wei-qi-shao-nian-di-10-ji-yin-mou/"/>
-    <id>https://jackyu123.gitee.io/2020/12/22/wei-qi-shao-nian-di-10-ji-yin-mou/</id>
-    <published>2020-12-22T08:16:57.000Z</published>
-    <updated>2020-12-22T08:17:04.824Z</updated>
     
     
       
