@@ -627,32 +627,30 @@
 <h1 id="ubuntu更换为国类源"><a href="#ubuntu更换为国类源" class="headerlink" title="ubuntu更换为国类源"></a>ubuntu更换为国类源</h1><h2 id="1-备份原来的源"><a href="#1-备份原来的源" class="headerlink" title="1.备份原来的源"></a>1.备份原来的源</h2><p>sudo cp /etc/apt/sources.list /etc/apt/sources.list.bak</p>
 <h2 id="2-更换源"><a href="#2-更换源" class="headerlink" title="2.更换源"></a>2.更换源</h2><p>sudo vi /etc/apt/sources.list</p>
 <ul>
-<li><p>阿里源</p>
-<pre><code>     deb http://mirrors.aliyun.com/ubuntu/ bionic main restricted universe multiverse
-     deb http://mirrors.aliyun.com/ubuntu/ bionic-security main restricted universe multiverse
-     deb http://mirrors.aliyun.com/ubuntu/ bionic-updates main restricted universe multiverse
-     deb http://mirrors.aliyun.com/ubuntu/ bionic-proposed main restricted universe multiverse
-     deb http://mirrors.aliyun.com/ubuntu/ bionic-backports main restricted universe multiverse
-     deb-src http://mirrors.aliyun.com/ubuntu/ bionic main restricted universe multiverse
-     deb-src http://mirrors.aliyun.com/ubuntu/ bionic-security main restricted universe multiverse
-     deb-src http://mirrors.aliyun.com/ubuntu/ bionic-updates main restricted universe multiverse
-     deb-src http://mirrors.aliyun.com/ubuntu/ bionic-proposed main restricted universe multiverse
-     deb-src http://mirrors.aliyun.com/ubuntu/ bionic-backports main restricted universe multiverse</code></pre>
-</li>
+<li>阿里源<pre><code>      deb http://mirrors.aliyun.com/ubuntu/ bionic main restricted universe multiverse
+      deb http://mirrors.aliyun.com/ubuntu/ bionic-security main restricted universe multiverse
+      deb http://mirrors.aliyun.com/ubuntu/ bionic-updates main restricted universe multiverse
+      deb http://mirrors.aliyun.com/ubuntu/ bionic-proposed main restricted universe multiverse
+      deb http://mirrors.aliyun.com/ubuntu/ bionic-backports main restricted universe multiverse
+      deb-src http://mirrors.aliyun.com/ubuntu/ bionic main restricted universe multiverse
+      deb-src http://mirrors.aliyun.com/ubuntu/ bionic-security main restricted universe multiverse
+      deb-src http://mirrors.aliyun.com/ubuntu/ bionic-updates main restricted universe multiverse
+      deb-src http://mirrors.aliyun.com/ubuntu/ bionic-proposed main restricted universe multiverse
+      deb-src http://mirrors.aliyun.com/ubuntu/ bionic-backports main restricted universe multiverse
+</code></pre></li>
 <li><p>清华源</p>
-<pre><code>    # 去掉源码镜像以提高 apt update 速度，如有需要可自行取消注释
-    deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic main restricted universe multiverse
-    deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-updates main restricted universe multiverse
-    deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-backports main restricted universe multiverse
-    deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-security main restricted universe multiverse 
-</code></pre>
-</li>
+<pre><code>      # 去掉源码镜像以提高 apt update 速度，如有需要可自行取消注释
+      deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic main restricted universe multiverse
+      deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-updates main restricted universe multiverse
+      deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-backports main restricted universe multiverse
+      deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-security main restricted universe multiverse
+</code></pre></li>
 </ul>
 <h2 id="3-更新"><a href="#3-更新" class="headerlink" title="3. 更新"></a>3. 更新</h2><ul>
-<li>更新软件列表<pre><code>sudo apt-get update</code></pre>
-</li>
-<li>更新软件（将已安装的软件与刷新的软件列表中的软件版本进行对比，如果发现已安装的软件版本太低，就会提示更新）<pre><code>  sudo apt-get upgrade</code></pre>
-</li>
+<li>更新软件列表<pre><code>sudo apt-get update
+</code></pre></li>
+<li>更新软件（将已安装的软件与刷新的软件列表中的软件版本进行对比，如果发现已安装的软件版本太低，就会提示更新）<pre><code>  sudo apt-get upgrade
+</code></pre></li>
 </ul>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">
                 
@@ -1272,7 +1270,7 @@
             <br>
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">17.2k</span>&nbsp;字
+                class="white-color">15.3k</span>&nbsp;字
             
             
             
@@ -1419,7 +1417,7 @@
             <span class="badge-subject"><i class="fa fa-copyright"></i></span><span class="badge-value bg-lightgrey">BY-NC-SA 4.0</span></a>
           </div>
           <div class="github-badge">
-            <span class="badge-subject">WordCount</span><span class="badge-value bg-blueviolet">17.2k</span>
+            <span class="badge-subject">WordCount</span><span class="badge-value bg-blueviolet">15.3k</span>
           </div>
         </div>
     </div>

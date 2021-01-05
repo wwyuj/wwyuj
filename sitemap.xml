@@ -9,13 +9,6 @@
   </url>
   
   <url>
-    <loc>https://jackyu123.gitee.io/2021/01/02/shu-xue-yi-zong-gang/</loc>
-    
-    <lastmod>2021-01-05</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://jackyu123.gitee.io/2021/01/03/shi-pin-lian-jie/</loc>
     
     <lastmod>2021-01-03</lastmod>
@@ -345,6 +338,13 @@
   </url>
   
   <url>
+    <loc>https://jackyu123.gitee.io/galleries/%E4%BA%8C%E6%AC%A1%E5%85%83%E9%A3%8E/index.html</loc>
+    
+    <lastmod>2020-10-08</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://jackyu123.gitee.io/galleries/%E4%B9%96%E5%B7%A7%E5%B0%8F%E7%8B%97/index.html</loc>
     
     <lastmod>2020-10-08</lastmod>
@@ -353,13 +353,6 @@
   
   <url>
     <loc>https://jackyu123.gitee.io/galleries/%E5%8A%A8%E6%BC%AB%E4%BA%BA%E7%89%A9/index.html</loc>
-    
-    <lastmod>2020-10-08</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jackyu123.gitee.io/galleries/%E4%BA%8C%E6%AC%A1%E5%85%83%E9%A3%8E/index.html</loc>
     
     <lastmod>2020-10-08</lastmod>
     
@@ -445,20 +438,6 @@
   </url>
   
   <url>
-    <loc>https://jackyu123.gitee.io/tags/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2021-01-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jackyu123.gitee.io/tags/%E8%81%8A%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2021-01-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://jackyu123.gitee.io/tags/ubuntu/</loc>
     <lastmod>2021-01-05</lastmod>
     <changefreq>daily</changefreq>
@@ -467,6 +446,20 @@
   
   <url>
     <loc>https://jackyu123.gitee.io/tags/linux/</loc>
+    <lastmod>2021-01-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jackyu123.gitee.io/tags/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2021-01-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jackyu123.gitee.io/tags/%E8%81%8A%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2021-01-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -515,27 +508,6 @@
   </url>
   
   <url>
-    <loc>https://jackyu123.gitee.io/tags/%E8%80%83%E7%A0%94/</loc>
-    <lastmod>2021-01-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jackyu123.gitee.io/tags/%E6%95%B0%E5%AD%A6%E4%B8%80/</loc>
-    <lastmod>2021-01-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jackyu123.gitee.io/tags/%E6%80%BB%E7%BA%B2/</loc>
-    <lastmod>2021-01-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://jackyu123.gitee.io/tags/%E5%8A%A8%E4%BD%9C/</loc>
     <lastmod>2021-01-05</lastmod>
     <changefreq>daily</changefreq>
@@ -544,6 +516,13 @@
   
   <url>
     <loc>https://jackyu123.gitee.io/tags/%E9%93%BE%E6%8E%A5/</loc>
+    <lastmod>2021-01-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jackyu123.gitee.io/tags/%E8%80%83%E7%A0%94/</loc>
     <lastmod>2021-01-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -580,14 +559,14 @@
   </url>
   
   <url>
-    <loc>https://jackyu123.gitee.io/categories/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://jackyu123.gitee.io/categories/linux/</loc>
     <lastmod>2021-01-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://jackyu123.gitee.io/categories/linux/</loc>
+    <loc>https://jackyu123.gitee.io/categories/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2021-01-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -629,13 +608,6 @@
   </url>
   
   <url>
-    <loc>https://jackyu123.gitee.io/categories/%E8%80%83%E7%A0%94/</loc>
-    <lastmod>2021-01-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://jackyu123.gitee.io/categories/%E8%A7%86%E9%A2%91/%E5%8A%A8%E4%BD%9C/</loc>
     <lastmod>2021-01-05</lastmod>
     <changefreq>daily</changefreq>
@@ -650,7 +622,7 @@
   </url>
   
   <url>
-    <loc>https://jackyu123.gitee.io/categories/%E8%80%83%E7%A0%94/%E6%95%B0%E5%AD%A6%E4%B8%80/</loc>
+    <loc>https://jackyu123.gitee.io/categories/%E8%80%83%E7%A0%94/</loc>
     <lastmod>2021-01-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -658,13 +630,6 @@
   
   <url>
     <loc>https://jackyu123.gitee.io/categories/%E8%80%83%E7%A0%94/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/</loc>
-    <lastmod>2021-01-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jackyu123.gitee.io/categories/%E8%80%83%E7%A0%94/%E6%95%B0%E5%AD%A6%E4%B8%80/%E6%80%BB%E7%BA%B2/</loc>
     <lastmod>2021-01-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
