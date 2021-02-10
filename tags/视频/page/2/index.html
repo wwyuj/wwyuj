@@ -29,11 +29,9 @@
 
     <script src="/libs/jquery/jquery.min.js"></script>
     <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
-    <script src="https://v1.hitokoto.cn/?c=d&encode=js&select=%23hitokoto" defer></script>
-    <div id="weather-v2-plugin-standard"></div>
-    <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
     
-
+    <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
+   
 <meta name="generator" content="Hexo 5.2.0"><link rel="alternate" href="/atom.xml" title="Jackyu" type="application/atom+xml">
 <link rel="stylesheet" href="/css/prism-tomorrow.css" type="text/css">
 <link rel="stylesheet" href="/css/prism-line-numbers.css" type="text/css"></head>
@@ -52,6 +50,31 @@
                     
                     <span class="logo-span">Jackyu</span>
                 </a>
+                 <div id="he-plugin-simple"></div>
+    <script>
+    WIDGET = {
+      CONFIG: {
+        "modules": "01234",
+        "background": 1,
+        "tmpColor": "FFFFFF",
+        "tmpSize": 16,
+        "cityColor": "FFFFFF",
+        "citySize": 16,
+        "aqiSize": 16,
+        "weatherIconSize": 24,
+        "alertIconSize": 18,
+        "padding": "10px 10px 10px 10px",
+        "shadow": "1",
+        "language": "auto",
+        "borderRadius": 5,
+        "fixed": "false",
+        "vertical": "middle",
+        "horizontal": "center",
+        "key": "fe75df01e3c54a71848fc9e8bf8970ce"
+      }
+    }
+    </script>
+    <script src="https://widget.qweather.net/simple/static/js/he-simple-common.js?v=2.0"></script>
             </div>
             
 
@@ -363,6 +386,8 @@
 </div>
 
 
+
+
         </div>
 
         
@@ -423,8 +448,8 @@
 </a>
         
     </nav>
-  
-    <script src="https://apip.weatherdt.com/standard/static/js/weather-standard-common.js?v=2.0"></script>
+
+
 </header>
 
     <div class="bg-cover pd-header about-cover">
@@ -1555,19 +1580,26 @@ $(function () {
 
     
 </body>
-<div id="tp-weather-widget"></div>
-<script>
-    (function(a,h,g,f,e,d,c,b){b=function(){d=h.createElement(g);c=h.getElementsByTagName(g)[0];d.src=e;d.charset="utf-8";d.async=1;c.parentNode.insertBefore(d,c)};a["SeniverseWeatherWidgetObject"]=f;a[f]||(a[f]=function(){(a[f].q=a[f].q||[]).push(arguments)});a[f].l=+new Date();if(a.attachEvent){a.attachEvent("onload",b)}else{a.addEventListener("load",b,false)}}(window,document,"script","SeniverseWeatherWidget","//cdn.sencdn.com/widget2/static/js/bundle.js?t="+parseInt((new Date().getTime() / 100000000).toString(),10)));
-    window.SeniverseWeatherWidget('show', {
-    flavor: "bubble",
-    location: "WX4FBXXFKE4F",
-    geolocation: true,
-    language: "zh-Hans",
-    unit: "c",
-    theme: "auto",
-    token: "48833b67-2e53-4ee5-aa9c-91763ab7a9dd",
-    hover: "enabled",
-    container: "tp-weather-widget"
-    })
-</script>
+
+        <!-- require APlayer -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
+    <!-- require MetingJS-->
+    <script src="https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script> 
+    <!--网易云-->   
+    <meting-js
+      server="netease"
+      id="2874479191"
+      type="playlist" 
+      mini="true"
+      fixed="true"
+      list-folded="true"
+      autoplay="false"
+      volume="0.7"
+      list-max-height="500px"
+      theme="#FADFA3"
+      order="random"
+      preload="auto"
+      mutex="true">
+    </meting-js>
 </html>
