@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jackyu123.gitee.io/2021/02/15/ruan-jian-ce-shi-ji-zhu-yi-dong-duan/</loc>
+    
+    <lastmod>2021-02-15</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://jackyu123.gitee.io/2020/12/26/ren-lao-jiao-yu/</loc>
     
     <lastmod>2021-01-02</lastmod>
@@ -149,14 +156,14 @@
   </url>
   
   <url>
-    <loc>https://jackyu123.gitee.io/galleries/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%99%AF/index.html</loc>
+    <loc>https://jackyu123.gitee.io/galleries/%E5%8A%A8%E6%BC%AB%E6%8F%92%E7%94%BB/index.html</loc>
     
     <lastmod>2020-10-08</lastmod>
     
   </url>
   
   <url>
-    <loc>https://jackyu123.gitee.io/galleries/%E5%8A%A8%E6%BC%AB%E6%8F%92%E7%94%BB/index.html</loc>
+    <loc>https://jackyu123.gitee.io/galleries/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%99%AF/index.html</loc>
     
     <lastmod>2020-10-08</lastmod>
     
@@ -191,14 +198,14 @@
   </url>
   
   <url>
-    <loc>https://jackyu123.gitee.io/galleries/%E7%94%9C%E7%BE%8E%E9%A3%9F%E5%93%81/index.html</loc>
+    <loc>https://jackyu123.gitee.io/galleries/%E7%92%80%E7%92%A8%E6%98%9F%E7%A9%BA/index.html</loc>
     
     <lastmod>2020-10-08</lastmod>
     
   </url>
   
   <url>
-    <loc>https://jackyu123.gitee.io/galleries/%E7%92%80%E7%92%A8%E6%98%9F%E7%A9%BA/index.html</loc>
+    <loc>https://jackyu123.gitee.io/galleries/%E7%94%9C%E7%BE%8E%E9%A3%9F%E5%93%81/index.html</loc>
     
     <lastmod>2020-10-08</lastmod>
     
@@ -291,6 +298,13 @@
   </url>
   
   <url>
+    <loc>https://jackyu123.gitee.io/tags/app/</loc>
+    <lastmod>2021-02-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://jackyu123.gitee.io/tags/%E8%80%83%E7%A0%94/</loc>
     <lastmod>2021-02-15</lastmod>
     <changefreq>daily</changefreq>
@@ -343,6 +357,13 @@
   
   <url>
     <loc>https://jackyu123.gitee.io/categories/%E8%A7%86%E9%A2%91/%E5%8D%8E%E4%B8%BA/</loc>
+    <lastmod>2021-02-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jackyu123.gitee.io/categories/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/app/</loc>
     <lastmod>2021-02-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

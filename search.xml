@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>app自动化技术</title>
+      <link href="2021/02/15/ruan-jian-ce-shi-ji-zhu-yi-dong-duan/"/>
+      <url>2021/02/15/ruan-jian-ce-shi-ji-zhu-yi-dong-duan/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="移动端测试是什么？"><a href="#移动端测试是什么？" class="headerlink" title="移动端测试是什么？"></a>移动端测试是什么？</h1><blockquote><p>移动端测试是指对移动应用进行的测试，即实体的特性满足需求的程度。</p><h1 id="移动端测试分类"><a href="#移动端测试分类" class="headerlink" title="移动端测试分类"></a>移动端测试分类</h1><p>app功能测试</p><blockquote><p>1.业务逻辑正确性测试</p><blockquote><p>产品文档</p></blockquote><p>2.兼容性测试</p><blockquote><p>1.系统版本<br>     2.分辨率<br>     3.网络情况</p></blockquote><p>3.异常测试</p><blockquote><p>1.热启动应用<br>  2.网络切换&amp;中断恢复<br>  3.电话&amp;信息中断恢复<br>4.升级&amp;安装卸载测试</p></blockquote><p>5.健壮性测试</p><blockquote><p>1.手机资源消耗<br>  2.流量消耗<br>  3.崩溃恢复等测试</p></blockquote></blockquote><p>app自动化测试 </p><blockquote><p>通过场景和数据的预设，把以人为驱动的测试行为转化为机器执行的一种过程.<br>  ⚠️ 并不是所有功能都能进行自动化 </p></blockquote><p>app安全测试</p><blockquote><p>通过安全测试技术，保证app尽可能的不存在安全漏洞.</p></blockquote></blockquote><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件测试 </category>
+          
+          <category> app </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 软件测试 </tag>
+            
+            <tag> app </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>独家专访任正非</title>
       <link href="2020/12/26/ren-lao-jiao-yu/"/>
       <url>2020/12/26/ren-lao-jiao-yu/</url>
