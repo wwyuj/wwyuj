@@ -4,11 +4,40 @@
   
     
     <entry>
+      <title>华为od机试-计算出int型数据在内存中存储1的个数</title>
+      <link href="2021/03/02/hua-wei-od-ji-shi-ji-suan-chu-int-xing-shu-ju-zai-nei-cun-zhong-cun-chu-1-de-ge-shu/"/>
+      <url>2021/03/02/hua-wei-od-ji-shi-ji-suan-chu-int-xing-shu-ju-zai-nei-cun-zhong-cun-chu-1-de-ge-shu/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="题型描述"><a href="#题型描述" class="headerlink" title="题型描述"></a>题型描述</h2><p>输入一个int型的正整数，计算出该int型数据在内存中存储时1的个数</p><h2 id="输入描述"><a href="#输入描述" class="headerlink" title="输入描述:"></a>输入描述:</h2><p>这个数转换成2进制后，输出1的个数</p><h2 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h2><blockquote><p>输入 5</p><p>输出 2<br>```python</p></blockquote><p>while True:<br>    try:<br>        a=int(input())</p><pre><code>    # 将整数转换成二进制    b = bin(a)    # 调用count方法统计1出现的个数    print(b.count(&quot;1&quot;))except:    break</code></pre><p>```</p><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> 华为od机试 </category>
+          
+          <category> 入门 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 华为od机试 </tag>
+            
+            <tag> 入门 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>华为od机试-入门-近似值</title>
       <link href="2021/03/02/hua-wei-od-ji-shi-ru-men-jin-si-zhi/"/>
       <url>2021/03/02/hua-wei-od-ji-shi-ru-men-jin-si-zhi/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="题目描述"><a href="#题目描述" class="headerlink" title="题目描述"></a>题目描述</h2><p>写出一个程序，接受一个正浮点数值，输出该数值的近似整数值。如果小数点后数值大于等于5,向上取整；小于5，则向下取整</p><h2 id="输入描述"><a href="#输入描述" class="headerlink" title="输入描述:"></a>输入描述:</h2><p>输入一个正浮点数值</p><h2 id="输出描述"><a href="#输出描述" class="headerlink" title="输出描述:"></a>输出描述:</h2><p>输出该数值的近似整数值</p><h2 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h2><blockquote><p>输入 5.5</p><p>输出  6</p></blockquote><pre class="line-numbers language-lang-python"><code class="language-lang-python">while True:    try:        num = input()        xiaoshu = float(num) -int(num.split(".")[0])        if xiaoshu >=0.5:            xiaoshu = 1        else:            xiaoshu = 0        num = int(num.split(".")[0])+xiaoshu        print(num)    except:        break<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="题目描述"><a href="#题目描述" class="headerlink" title="题目描述"></a>题目描述</h2><p>写出一个程序，接受一个正浮点数值，输出该数值的近似整数值。如果小数点后数值大于等于5,向上取整；小于5，则向下取整</p><h2 id="输入描述"><a href="#输入描述" class="headerlink" title="输入描述:"></a>输入描述:</h2><p>输入一个正浮点数值</p><h2 id="输出描述"><a href="#输出描述" class="headerlink" title="输出描述:"></a>输出描述:</h2><p>输出该数值的近似整数值</p><h2 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h2><blockquote><p>输入 5.5</p><p>输出  6</p></blockquote><pre class="line-numbers language-lang-python"><code class="language-lang-python">while True:    try:        num = input()        # 获取小数 = 输入数-整数（num.split(".")[0]）        xiaoshu = float(num) -int(num.split(".")[0])        if xiaoshu >=0.5:            xiaoshu = 1        else:            xiaoshu = 0        num = int(num.split(".")[0])+xiaoshu        print(num)    except:        break<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
       
       
       <categories>
