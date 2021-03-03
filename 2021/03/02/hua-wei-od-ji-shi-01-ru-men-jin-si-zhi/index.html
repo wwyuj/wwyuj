@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="华为od机试-计算出int型数据在内存中存储1的个数, 赣南师范大学  计算机专业 Luack_yww">
+    <meta name="keywords" content="华为od机试01-入门-近似值, 赣南师范大学  计算机专业 Luack_yww">
     <meta name="description" content="赣南师范大学 | 电气工程及其自动化专业 | 软件开发">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
@@ -16,7 +16,7 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
 
 
-    <title>华为od机试-计算出int型数据在内存中存储1的个数 | Jackyu</title>
+    <title>华为od机试01-入门-近似值 | Jackyu</title>
     <link rel="icon" type="image/png" href="/favicon.png">
 
     <link rel="stylesheet" type="text/css" href="/libs/awesome/css/all.css">
@@ -426,12 +426,12 @@
 
 
 
-<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/8.jpg')">
+<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/9.jpg')">
     <div class="container" style="right: 0px;left: 0px;">
         <div class="row">
             <div class="col s12 m12 l12">
                 <div class="brand">
-                    <h1 class="description center-align post-title">华为od机试-计算出int型数据在内存中存储1的个数</h1>
+                    <h1 class="description center-align post-title">华为od机试01-入门-近似值</h1>
                 </div>
             </div>
         </div>
@@ -594,7 +594,7 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    96
+                    135
                 </div>
                 
 
@@ -622,23 +622,28 @@
 
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <h2 id="题型描述"><a href="#题型描述" class="headerlink" title="题型描述"></a>题型描述</h2><p>输入一个int型的正整数，计算出该int型数据在内存中存储时1的个数</p>
-<h2 id="输入描述"><a href="#输入描述" class="headerlink" title="输入描述:"></a>输入描述:</h2><p>这个数转换成2进制后，输出1的个数</p>
+                <h2 id="题目描述"><a href="#题目描述" class="headerlink" title="题目描述"></a>题目描述</h2><p>写出一个程序，接受一个正浮点数值，输出该数值的近似整数值。如果小数点后数值大于等于5,向上取整；小于5，则向下取整</p>
+<h2 id="输入描述"><a href="#输入描述" class="headerlink" title="输入描述:"></a>输入描述:</h2><p>输入一个正浮点数值</p>
+<h2 id="输出描述"><a href="#输出描述" class="headerlink" title="输出描述:"></a>输出描述:</h2><p>输出该数值的近似整数值</p>
 <h2 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h2><blockquote>
-<p>输入 5</p>
-<p>输出 2</p>
+<p>输入 5.5</p>
+<p>输出  6</p>
 </blockquote>
-<pre class="line-numbers language-lang-python"><code class="language-lang-python">
-while True:
+<pre class="line-numbers language-lang-python"><code class="language-lang-python">while True:
     try:
-        a=int(input())
-        # 将整数转换成二进制
-        b = bin(a)
-        # 调用count方法统计1出现的个数
-        print(b.count("1"))
+        num = input()
+        # 获取小数 = 输入数-整数（num.split(".")[0]）
+        xiaoshu = float(num) -int(num.split(".")[0])
+
+        if xiaoshu >=0.5:
+            xiaoshu = 1
+        else:
+            xiaoshu = 0
+        num = int(num.split(".")[0])+xiaoshu
+        print(num)
     except:
         break
-<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">
                 
             </div>
@@ -665,7 +670,7 @@ while True:
                     </i>
                 </span>
                 <span class="reprint-info">
-                    <a href="https://jackyu123.gitee.io/2021/03/02/hua-wei-od-ji-shi-ji-suan-chu-int-xing-shu-ju-zai-nei-cun-zhong-cun-chu-1-de-ge-shu/">https://jackyu123.gitee.io/2021/03/02/hua-wei-od-ji-shi-ji-suan-chu-int-xing-shu-ju-zai-nei-cun-zhong-cun-chu-1-de-ge-shu/</a>
+                    <a href="https://jackyu123.gitee.io/2021/03/02/hua-wei-od-ji-shi-01-ru-men-jin-si-zhi/">https://jackyu123.gitee.io/2021/03/02/hua-wei-od-ji-shi-01-ru-men-jin-si-zhi/</a>
                 </span>
             </div>
             <div class="reprint__notice">
@@ -1015,18 +1020,17 @@ while True:
 <article id="prenext-posts" class="prev-next articles">
     <div class="row article-row">
         
-        <div class="article col s12 m6" data-aos="fade-up" data-aos="fade-up">
+        <div class="article col s12 m6" data-aos="fade-up">
             <div class="article-badge left-badge text-color">
-                <i class="far fa-dot-circle"></i>&nbsp;本篇
-            </div>
+                <i class="fas fa-chevron-left"></i>&nbsp;上一篇</div>
             <div class="card">
-                <a href="/2021/03/02/hua-wei-od-ji-shi-ji-suan-chu-int-xing-shu-ju-zai-nei-cun-zhong-cun-chu-1-de-ge-shu/">
+                <a href="/2021/03/02/hua-wei-od-ji-shi-02-ji-suan-chu-int-xing-shu-ju-zai-nei-cun-zhong-cun-chu-1-de-ge-shu/">
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/8.jpg" class="responsive-img" alt="华为od机试-计算出int型数据在内存中存储1的个数">
+                        <img src="/medias/featureimages/18.jpg" class="responsive-img" alt="华为od机试02-计算出int型数据在内存中存储1的个数">
                         
-                        <span class="card-title">华为od机试-计算出int型数据在内存中存储1的个数</span>
+                        <span class="card-title">华为od机试02-计算出int型数据在内存中存储1的个数</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
@@ -1036,9 +1040,9 @@ while True:
                         
                     </div>
                     <div class="publish-info">
-                            <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2021-03-02
-                            </span>
+                        <span class="publish-date">
+                            <i class="far fa-clock fa-fw icon-date"></i>2021-03-02
+                        </span>
                         <span class="publish-author">
                             
                             <i class="fas fa-bookmark fa-fw icon-category"></i>
@@ -1055,7 +1059,6 @@ while True:
                         </span>
                     </div>
                 </div>
-
                 
                 <div class="card-action article-tags">
                     
@@ -1078,13 +1081,13 @@ while True:
                 下一篇&nbsp;<i class="fas fa-chevron-right"></i>
             </div>
             <div class="card">
-                <a href="/2021/03/02/hua-wei-od-ji-shi-ru-men-jin-si-zhi/">
+                <a href="/2021/02/15/ruan-jian-ce-shi-ji-zhu-yi-dong-duan/">
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/0.jpg" class="responsive-img" alt="华为od机试-入门-近似值">
+                        <img src="/medias/featureimages/21.jpg" class="responsive-img" alt="软件测试技术-移动端">
                         
-                        <span class="card-title">华为od机试-入门-近似值</span>
+                        <span class="card-title">软件测试技术-移动端</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
@@ -1095,18 +1098,18 @@ while True:
                     </div>
                     <div class="publish-info">
                             <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2021-03-02
+                                <i class="far fa-clock fa-fw icon-date"></i>2021-02-15
                             </span>
                         <span class="publish-author">
                             
                             <i class="fas fa-bookmark fa-fw icon-category"></i>
                             
-                            <a href="/categories/%E5%8D%8E%E4%B8%BAod%E6%9C%BA%E8%AF%95/" class="post-category">
-                                    华为od机试
+                            <a href="/categories/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/" class="post-category">
+                                    软件测试
                                 </a>
                             
-                            <a href="/categories/%E5%8D%8E%E4%B8%BAod%E6%9C%BA%E8%AF%95/%E5%85%A5%E9%97%A8/" class="post-category">
-                                    入门
+                            <a href="/categories/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/app/" class="post-category">
+                                    app
                                 </a>
                             
                             
@@ -1116,12 +1119,12 @@ while True:
                 
                 <div class="card-action article-tags">
                     
-                    <a href="/tags/%E5%8D%8E%E4%B8%BAod%E6%9C%BA%E8%AF%95/">
-                        <span class="chip bg-color">华为od机试</span>
+                    <a href="/tags/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/">
+                        <span class="chip bg-color">软件测试</span>
                     </a>
                     
-                    <a href="/tags/%E5%85%A5%E9%97%A8/">
-                        <span class="chip bg-color">入门</span>
+                    <a href="/tags/app/">
+                        <span class="chip bg-color">app</span>
                     </a>
                     
                 </div>
@@ -1278,7 +1281,7 @@ while True:
             <br>
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">4.4k</span>&nbsp;字
+                class="white-color">5.3k</span>&nbsp;字
             
             
             
@@ -1425,7 +1428,7 @@ while True:
             <span class="badge-subject"><i class="fa fa-copyright"></i></span><span class="badge-value bg-lightgrey">BY-NC-SA 4.0</span></a>
           </div>
           <div class="github-badge">
-            <span class="badge-subject">WordCount</span><span class="badge-value bg-blueviolet">4.4k</span>
+            <span class="badge-subject">WordCount</span><span class="badge-value bg-blueviolet">5.3k</span>
           </div>
         </div>
     </div>

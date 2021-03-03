@@ -6,7 +6,7 @@
   <link href="https://jackyu123.gitee.io/atom.xml" rel="self"/>
   
   <link href="https://jackyu123.gitee.io/"/>
-  <updated>2021-03-03T14:45:28.212Z</updated>
+  <updated>2021-03-03T15:37:07.774Z</updated>
   <id>https://jackyu123.gitee.io/</id>
   
   <author>
@@ -17,11 +17,156 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>华为od机试-计算出int型数据在内存中存储1的个数</title>
-    <link href="https://jackyu123.gitee.io/2021/03/02/hua-wei-od-ji-shi-ji-suan-chu-int-xing-shu-ju-zai-nei-cun-zhong-cun-chu-1-de-ge-shu/"/>
-    <id>https://jackyu123.gitee.io/2021/03/02/hua-wei-od-ji-shi-ji-suan-chu-int-xing-shu-ju-zai-nei-cun-zhong-cun-chu-1-de-ge-shu/</id>
+    <title>华为0d机试07-简单-汽水瓶</title>
+    <link href="https://jackyu123.gitee.io/2021/03/03/hua-wei-0d-ji-shi-07-jian-dan-qi-shui-ping/"/>
+    <id>https://jackyu123.gitee.io/2021/03/03/hua-wei-0d-ji-shi-07-jian-dan-qi-shui-ping/</id>
+    <published>2021-03-03T15:31:18.000Z</published>
+    <updated>2021-03-03T15:37:07.774Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="华为od机试" scheme="https://jackyu123.gitee.io/categories/%E5%8D%8E%E4%B8%BAod%E6%9C%BA%E8%AF%95/"/>
+    
+    <category term="简单" scheme="https://jackyu123.gitee.io/categories/%E5%8D%8E%E4%B8%BAod%E6%9C%BA%E8%AF%95/%E7%AE%80%E5%8D%95/"/>
+    
+    
+    <category term="华为od机试" scheme="https://jackyu123.gitee.io/tags/%E5%8D%8E%E4%B8%BAod%E6%9C%BA%E8%AF%95/"/>
+    
+    <category term="简单" scheme="https://jackyu123.gitee.io/tags/%E7%AE%80%E5%8D%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>华为0d机试06-简单-字符串排序</title>
+    <link href="https://jackyu123.gitee.io/2021/03/03/hua-wei-0d-ji-shi-06-jian-dan-zi-fu-chuan-pai-xu/"/>
+    <id>https://jackyu123.gitee.io/2021/03/03/hua-wei-0d-ji-shi-06-jian-dan-zi-fu-chuan-pai-xu/</id>
+    <published>2021-03-03T15:22:04.000Z</published>
+    <updated>2021-03-03T15:30:03.068Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="华为od机试" scheme="https://jackyu123.gitee.io/categories/%E5%8D%8E%E4%B8%BAod%E6%9C%BA%E8%AF%95/"/>
+    
+    <category term="简单" scheme="https://jackyu123.gitee.io/categories/%E5%8D%8E%E4%B8%BAod%E6%9C%BA%E8%AF%95/%E7%AE%80%E5%8D%95/"/>
+    
+    
+    <category term="华为od机试" scheme="https://jackyu123.gitee.io/tags/%E5%8D%8E%E4%B8%BAod%E6%9C%BA%E8%AF%95/"/>
+    
+    <category term="简单" scheme="https://jackyu123.gitee.io/tags/%E7%AE%80%E5%8D%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>华为0d机试05-简单-句子逆序</title>
+    <link href="https://jackyu123.gitee.io/2021/03/03/hua-wei-0d-ji-shi-05-jian-dan-ju-zi-ni-xu/"/>
+    <id>https://jackyu123.gitee.io/2021/03/03/hua-wei-0d-ji-shi-05-jian-dan-ju-zi-ni-xu/</id>
+    <published>2021-03-03T15:17:54.000Z</published>
+    <updated>2021-03-03T15:21:31.637Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="华为od机试" scheme="https://jackyu123.gitee.io/categories/%E5%8D%8E%E4%B8%BAod%E6%9C%BA%E8%AF%95/"/>
+    
+    <category term="简单" scheme="https://jackyu123.gitee.io/categories/%E5%8D%8E%E4%B8%BAod%E6%9C%BA%E8%AF%95/%E7%AE%80%E5%8D%95/"/>
+    
+    
+    <category term="华为od机试" scheme="https://jackyu123.gitee.io/tags/%E5%8D%8E%E4%B8%BAod%E6%9C%BA%E8%AF%95/"/>
+    
+    <category term="简单" scheme="https://jackyu123.gitee.io/tags/%E7%AE%80%E5%8D%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>华为0d机试04-简单-字符串反转</title>
+    <link href="https://jackyu123.gitee.io/2021/03/03/hua-wei-0d-ji-shi-04-jian-dan-zi-fu-chuan-fan-zhuan/"/>
+    <id>https://jackyu123.gitee.io/2021/03/03/hua-wei-0d-ji-shi-04-jian-dan-zi-fu-chuan-fan-zhuan/</id>
+    <published>2021-03-03T15:12:29.000Z</published>
+    <updated>2021-03-03T15:17:04.720Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="华为od机试" scheme="https://jackyu123.gitee.io/categories/%E5%8D%8E%E4%B8%BAod%E6%9C%BA%E8%AF%95/"/>
+    
+    <category term="简单" scheme="https://jackyu123.gitee.io/categories/%E5%8D%8E%E4%B8%BAod%E6%9C%BA%E8%AF%95/%E7%AE%80%E5%8D%95/"/>
+    
+    
+    <category term="华为od机试" scheme="https://jackyu123.gitee.io/tags/%E5%8D%8E%E4%B8%BAod%E6%9C%BA%E8%AF%95/"/>
+    
+    <category term="简单" scheme="https://jackyu123.gitee.io/tags/%E7%AE%80%E5%8D%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>华为od机试03-简单-数字颠倒</title>
+    <link href="https://jackyu123.gitee.io/2021/03/03/hua-wei-od-ji-shi-03-jian-dan-shu-zi-dian-dao/"/>
+    <id>https://jackyu123.gitee.io/2021/03/03/hua-wei-od-ji-shi-03-jian-dan-shu-zi-dian-dao/</id>
+    <published>2021-03-03T14:54:52.000Z</published>
+    <updated>2021-03-03T15:10:45.703Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="华为od机试" scheme="https://jackyu123.gitee.io/categories/%E5%8D%8E%E4%B8%BAod%E6%9C%BA%E8%AF%95/"/>
+    
+    <category term="简单" scheme="https://jackyu123.gitee.io/categories/%E5%8D%8E%E4%B8%BAod%E6%9C%BA%E8%AF%95/%E7%AE%80%E5%8D%95/"/>
+    
+    
+    <category term="华为od机试" scheme="https://jackyu123.gitee.io/tags/%E5%8D%8E%E4%B8%BAod%E6%9C%BA%E8%AF%95/"/>
+    
+    <category term="简单" scheme="https://jackyu123.gitee.io/tags/%E7%AE%80%E5%8D%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>华为od机试02-计算出int型数据在内存中存储1的个数</title>
+    <link href="https://jackyu123.gitee.io/2021/03/02/hua-wei-od-ji-shi-02-ji-suan-chu-int-xing-shu-ju-zai-nei-cun-zhong-cun-chu-1-de-ge-shu/"/>
+    <id>https://jackyu123.gitee.io/2021/03/02/hua-wei-od-ji-shi-02-ji-suan-chu-int-xing-shu-ju-zai-nei-cun-zhong-cun-chu-1-de-ge-shu/</id>
     <published>2021-03-02T14:36:57.000Z</published>
-    <updated>2021-03-03T14:45:28.212Z</updated>
+    <updated>2021-03-03T14:50:35.986Z</updated>
     
     
       
@@ -46,11 +191,11 @@
   </entry>
   
   <entry>
-    <title>华为od机试-入门-近似值</title>
-    <link href="https://jackyu123.gitee.io/2021/03/02/hua-wei-od-ji-shi-ru-men-jin-si-zhi/"/>
-    <id>https://jackyu123.gitee.io/2021/03/02/hua-wei-od-ji-shi-ru-men-jin-si-zhi/</id>
+    <title>华为od机试01-入门-近似值</title>
+    <link href="https://jackyu123.gitee.io/2021/03/02/hua-wei-od-ji-shi-01-ru-men-jin-si-zhi/"/>
+    <id>https://jackyu123.gitee.io/2021/03/02/hua-wei-od-ji-shi-01-ru-men-jin-si-zhi/</id>
     <published>2021-03-02T13:18:00.000Z</published>
-    <updated>2021-03-02T14:46:06.802Z</updated>
+    <updated>2021-03-03T15:37:11.181Z</updated>
     
     
       

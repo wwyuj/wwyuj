@@ -4,11 +4,156 @@
   
     
     <entry>
-      <title>华为od机试-计算出int型数据在内存中存储1的个数</title>
-      <link href="2021/03/02/hua-wei-od-ji-shi-ji-suan-chu-int-xing-shu-ju-zai-nei-cun-zhong-cun-chu-1-de-ge-shu/"/>
-      <url>2021/03/02/hua-wei-od-ji-shi-ji-suan-chu-int-xing-shu-ju-zai-nei-cun-zhong-cun-chu-1-de-ge-shu/</url>
+      <title>华为0d机试07-简单-汽水瓶</title>
+      <link href="2021/03/03/hua-wei-0d-ji-shi-07-jian-dan-qi-shui-ping/"/>
+      <url>2021/03/03/hua-wei-0d-ji-shi-07-jian-dan-qi-shui-ping/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="题型描述"><a href="#题型描述" class="headerlink" title="题型描述"></a>题型描述</h2><p>输入一个int型的正整数，计算出该int型数据在内存中存储时1的个数</p><h2 id="输入描述"><a href="#输入描述" class="headerlink" title="输入描述:"></a>输入描述:</h2><p>这个数转换成2进制后，输出1的个数</p><h2 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h2><blockquote><p>输入 5</p><p>输出 2</p></blockquote><pre class="line-numbers language-lang-python"><code class="language-lang-python">while True:    try:        a=int(input())        # 将整数转换成二进制        b = bin(a)        # 调用count方法统计1出现的个数        print(b.count("1"))    except:        break<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><ul><li><h2 id="题目描述"><a href="#题目描述" class="headerlink" title="题目描述"></a>题目描述</h2></li></ul><blockquote><p>有这样一道智力题：“某商店规定：三个空汽水瓶可以换一瓶汽水。小张手上有十个空汽水瓶，她最多可以换多少瓶汽水喝？”答案是5瓶，方法如下：先用9个空瓶子换3瓶汽水，喝掉3瓶满的，喝完以后4个空瓶子，用3个再换一瓶，喝掉这瓶满的，这时候剩2个空瓶子。然后你让老板先借给你一瓶汽水，喝掉这瓶满的，喝完以后用3个空瓶子换一瓶满的还给老板。如果小张手上有n个空汽水瓶，最多可以换多少瓶汽水喝？</p></blockquote><h2 id="输入描述"><a href="#输入描述" class="headerlink" title="输入描述"></a>输入描述</h2><blockquote><p>输入文件最多包含10组测试数据，每个数据占一行，仅包含一个正整数n（1&lt;=n&lt;=100），表示小张手上的空汽水瓶数。n=0表示输入结束，你的程序不应当处理这一行。</p></blockquote><h2 id="输出描述"><a href="#输出描述" class="headerlink" title="输出描述"></a>输出描述</h2><blockquote><p>对于每组测试数据，输出一行，表示最多可以喝的汽水瓶数。如果一瓶也喝不到，输出0。</p></blockquote><h2 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h2><blockquote><p>输入</p><blockquote><p>3<br>10<br>81<br>0</p></blockquote><p>输出</p><blockquote><p>1<br>5<br>40</p></blockquote></blockquote><pre class="line-numbers language-lang-python"><code class="language-lang-python">while True:    try:        a=int(input())        if a!=0:            print (a//2)        else:            pass    except:        break<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> 华为od机试 </category>
+          
+          <category> 简单 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 华为od机试 </tag>
+            
+            <tag> 简单 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>华为0d机试06-简单-字符串排序</title>
+      <link href="2021/03/03/hua-wei-0d-ji-shi-06-jian-dan-zi-fu-chuan-pai-xu/"/>
+      <url>2021/03/03/hua-wei-0d-ji-shi-06-jian-dan-zi-fu-chuan-pai-xu/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><ul><li><h2 id="题目描述"><a href="#题目描述" class="headerlink" title="题目描述"></a>题目描述</h2></li></ul><blockquote><p>给定n个字符串，请对n个字符串按照字典序排列。</p></blockquote><h2 id="输入描述"><a href="#输入描述" class="headerlink" title="输入描述"></a>输入描述</h2><blockquote><pre><code>输入第一行为一个正整数n(1≤n≤1000),下面n行为n个字符串(字符串长度≤100),字符串中只含有大小写字母</code></pre></blockquote><h2 id="输出描述"><a href="#输出描述" class="headerlink" title="输出描述"></a>输出描述</h2><blockquote><pre><code>数据输出n行，输出结果为按照字典序排列的字符串。</code></pre></blockquote><h2 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h2><blockquote><p>输入</p><blockquote><p>9<br>cap<br>to<br>cat<br>card<br>two<br>too<br>up<br>boat<br>boot</p></blockquote><p>输出</p><blockquote><p>boat<br>boot<br>cap<br>card<br>cat<br>to<br>too<br>two<br>up</p></blockquote></blockquote><pre class="line-numbers language-lang-python"><code class="language-lang-python">import sysnum=int(sys.stdin.readline().strip())ll=list()for i in range(num):    ll.append(sys.stdin.readline().strip())ll.sort(key=str)#key参数的值应该是一个函数，这个函数接收一个参数并且返回一个用于比较的关键字，按照字典序--strfor item in ll:    print(item)<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> 华为od机试 </category>
+          
+          <category> 简单 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 华为od机试 </tag>
+            
+            <tag> 简单 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>华为0d机试05-简单-句子逆序</title>
+      <link href="2021/03/03/hua-wei-0d-ji-shi-05-jian-dan-ju-zi-ni-xu/"/>
+      <url>2021/03/03/hua-wei-0d-ji-shi-05-jian-dan-ju-zi-ni-xu/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><ul><li><h2 id="题目描述"><a href="#题目描述" class="headerlink" title="题目描述"></a>题目描述</h2></li></ul><blockquote><p>将一个英文语句以单词为单位逆序排放。例如“I am a boy”，逆序排放后为“boy a am I”</p><p>所有单词之间用一个空格隔开，语句中除了英文字母外，不再包含其他字符</p></blockquote><h2 id="输入描述"><a href="#输入描述" class="headerlink" title="输入描述"></a>输入描述</h2><blockquote><p>输入一个英文语句，每个单词用空格隔开。保证输入只包含空格和字母。</p></blockquote><h2 id="输出描述"><a href="#输出描述" class="headerlink" title="输出描述"></a>输出描述</h2><blockquote><p>得到逆序的句子</p></blockquote><h2 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h2><blockquote><p>输入</p><blockquote><p>I am a boy</p></blockquote><p>输出</p><blockquote><p>boy a am I</p></blockquote></blockquote><pre class="line-numbers language-lang-python"><code class="language-lang-python">words = input().strip() # 获取输入去空格print(" ".join(words.split()[::-1]).strip())<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> 华为od机试 </category>
+          
+          <category> 简单 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 华为od机试 </tag>
+            
+            <tag> 简单 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>华为0d机试04-简单-字符串反转</title>
+      <link href="2021/03/03/hua-wei-0d-ji-shi-04-jian-dan-zi-fu-chuan-fan-zhuan/"/>
+      <url>2021/03/03/hua-wei-0d-ji-shi-04-jian-dan-zi-fu-chuan-fan-zhuan/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><ul><li><h2 id="题目描述"><a href="#题目描述" class="headerlink" title="题目描述"></a>题目描述</h2></li></ul><blockquote><p>接受一个只包含小写字母的字符串，然后输出该字符串反转后的字符串。（字符串长度不超过1000）</p></blockquote><h2 id="输入描述"><a href="#输入描述" class="headerlink" title="输入描述"></a>输入描述</h2><blockquote><p>输入一行，为一个只包含小写字母的字符串。</p></blockquote><h2 id="输出描述"><a href="#输出描述" class="headerlink" title="输出描述"></a>输出描述</h2><blockquote><p>输出该字符串反转后的字符串</p></blockquote><h2 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h2><blockquote><p>输入</p><blockquote><p>abcd</p></blockquote><p>输出</p><blockquote><p>dcba</p></blockquote></blockquote><pre class="line-numbers language-lang-python"><code class="language-lang-python">import sysl=list( map(str,sys.stdin.readline().strip().lower()))strip#接收用户输入，可以去掉最后的那个换行符\nl.reverse()# 列表逆置print("".join(l))<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> 华为od机试 </category>
+          
+          <category> 简单 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 华为od机试 </tag>
+            
+            <tag> 简单 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>华为od机试03-简单-数字颠倒</title>
+      <link href="2021/03/03/hua-wei-od-ji-shi-03-jian-dan-shu-zi-dian-dao/"/>
+      <url>2021/03/03/hua-wei-od-ji-shi-03-jian-dan-shu-zi-dian-dao/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><ul><li><h2 id="题目描述"><a href="#题目描述" class="headerlink" title="题目描述"></a>题目描述</h2></li></ul><blockquote><p>输入一个整数，将这个整数以字符串的形式逆序输出,程序不考虑负数的情况，若数字含有0，则逆序形式也含有0，如输入为100，则输出为001</p></blockquote><h2 id="输入描述"><a href="#输入描述" class="headerlink" title="输入描述"></a>输入描述</h2><blockquote><p>输入一个int整数，</p></blockquote><h2 id="输出描述"><a href="#输出描述" class="headerlink" title="输出描述"></a>输出描述</h2><blockquote><p>将这个整数以字符串的形式逆序输出</p></blockquote><h2 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h2><blockquote><p>输入</p><blockquote><p>151600</p></blockquote><p>输出</p><blockquote><p>000615</p></blockquote></blockquote><pre class="line-numbers language-lang-python"><code class="language-lang-python"># 方法一：字符串切片a = str(input())print(a[::-1])# a[::-1]是将字符串所有元素逆置，a[:-1]是去掉字符串最后一位# 方法二：s = str(input())print (''.join(reversed(s)))# reversed()函数的作用是返回一个反转的迭代器（元组、列表、字符串、range）<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> 华为od机试 </category>
+          
+          <category> 简单 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 华为od机试 </tag>
+            
+            <tag> 简单 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>华为od机试02-计算出int型数据在内存中存储1的个数</title>
+      <link href="2021/03/02/hua-wei-od-ji-shi-02-ji-suan-chu-int-xing-shu-ju-zai-nei-cun-zhong-cun-chu-1-de-ge-shu/"/>
+      <url>2021/03/02/hua-wei-od-ji-shi-02-ji-suan-chu-int-xing-shu-ju-zai-nei-cun-zhong-cun-chu-1-de-ge-shu/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="题型描述"><a href="#题型描述" class="headerlink" title="题型描述"></a>题型描述</h2><p>输入一个int型的正整数，计算出该int型数据在内存中存储时1的个数</p><h2 id="输入描述"><a href="#输入描述" class="headerlink" title="输入描述:"></a>输入描述:</h2><p>这个数转换成2进制后，输出1的个数</p><h2 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h2><blockquote><p>输入 5</p><p>输出 2<br>```python</p></blockquote><p>while True:<br>    try:<br>        a=int(input())</p><pre><code>    # 将整数转换成二进制    b = bin(a)    # 调用count方法统计1出现的个数    print(b.count(&quot;1&quot;))except:    break</code></pre><p>```</p><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
       
       
       <categories>
@@ -33,9 +178,9 @@
     
     
     <entry>
-      <title>华为od机试-入门-近似值</title>
-      <link href="2021/03/02/hua-wei-od-ji-shi-ru-men-jin-si-zhi/"/>
-      <url>2021/03/02/hua-wei-od-ji-shi-ru-men-jin-si-zhi/</url>
+      <title>华为od机试01-入门-近似值</title>
+      <link href="2021/03/02/hua-wei-od-ji-shi-01-ru-men-jin-si-zhi/"/>
+      <url>2021/03/02/hua-wei-od-ji-shi-01-ru-men-jin-si-zhi/</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="题目描述"><a href="#题目描述" class="headerlink" title="题目描述"></a>题目描述</h2><p>写出一个程序，接受一个正浮点数值，输出该数值的近似整数值。如果小数点后数值大于等于5,向上取整；小于5，则向下取整</p><h2 id="输入描述"><a href="#输入描述" class="headerlink" title="输入描述:"></a>输入描述:</h2><p>输入一个正浮点数值</p><h2 id="输出描述"><a href="#输出描述" class="headerlink" title="输出描述:"></a>输出描述:</h2><p>输出该数值的近似整数值</p><h2 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h2><blockquote><p>输入 5.5</p><p>输出  6</p></blockquote><pre class="line-numbers language-lang-python"><code class="language-lang-python">while True:    try:        num = input()        # 获取小数 = 输入数-整数（num.split(".")[0]）        xiaoshu = float(num) -int(num.split(".")[0])        if xiaoshu >=0.5:            xiaoshu = 1        else:            xiaoshu = 0        num = int(num.split(".")[0])+xiaoshu        print(num)    except:        break<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
       
