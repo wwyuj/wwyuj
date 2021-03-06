@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jackyu123.gitee.io/2021/03/03/hua-wei-0d-ji-shi-06-jian-dan-zi-fu-chuan-pai-xu/</loc>
+    
+    <lastmod>2021-03-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jackyu123.gitee.io/2020/09/22/2021-xi-dian-kao-yan-ji-hua/</loc>
+    
+    <lastmod>2021-03-06</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://jackyu123.gitee.io/2021/03/03/hua-wei-0d-ji-shi-07-jian-dan-qi-shui-ping/</loc>
     
     <lastmod>2021-03-03</lastmod>
@@ -10,13 +24,6 @@
   
   <url>
     <loc>https://jackyu123.gitee.io/2021/03/02/hua-wei-od-ji-shi-01-ru-men-jin-si-zhi/</loc>
-    
-    <lastmod>2021-03-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jackyu123.gitee.io/2021/03/03/hua-wei-0d-ji-shi-06-jian-dan-zi-fu-chuan-pai-xu/</loc>
     
     <lastmod>2021-03-03</lastmod>
     
@@ -80,13 +87,6 @@
   
   <url>
     <loc>https://jackyu123.gitee.io/2020/08/31/wei-shi-me-yao-zhu-chong-zhuan-ce-zhi-liang/</loc>
-    
-    <lastmod>2020-12-22</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jackyu123.gitee.io/2020/09/22/2022-xi-dian-kao-yan-ji-hua/</loc>
     
     <lastmod>2020-12-22</lastmod>
     
@@ -205,14 +205,14 @@
   </url>
   
   <url>
-    <loc>https://jackyu123.gitee.io/galleries/%E5%8A%A8%E6%BC%AB%E6%8F%92%E7%94%BB/index.html</loc>
+    <loc>https://jackyu123.gitee.io/galleries/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%99%AF/index.html</loc>
     
     <lastmod>2020-10-08</lastmod>
     
   </url>
   
   <url>
-    <loc>https://jackyu123.gitee.io/galleries/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%99%AF/index.html</loc>
+    <loc>https://jackyu123.gitee.io/galleries/%E5%8A%A8%E6%BC%AB%E6%8F%92%E7%94%BB/index.html</loc>
     
     <lastmod>2020-10-08</lastmod>
     
@@ -270,7 +270,7 @@
 
   <url>
     <loc>https://jackyu123.gitee.io/</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -278,112 +278,112 @@
   
   <url>
     <loc>https://jackyu123.gitee.io/tags/%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jackyu123.gitee.io/tags/ubuntu/</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jackyu123.gitee.io/tags/linux/</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jackyu123.gitee.io/tags/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jackyu123.gitee.io/tags/%E8%81%8A%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jackyu123.gitee.io/tags/%E8%A7%86%E9%A2%91/</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jackyu123.gitee.io/tags/%E5%8D%8E%E4%B8%BA/</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jackyu123.gitee.io/tags/%E4%BB%BB%E6%AD%A3%E9%9D%9E/</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jackyu123.gitee.io/tags/python/</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jackyu123.gitee.io/tags/%E5%8F%91%E5%B1%95%E5%8E%86%E5%8F%B2/</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jackyu123.gitee.io/tags/%E5%8D%8E%E4%B8%BAod%E6%9C%BA%E8%AF%95/</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jackyu123.gitee.io/tags/%E7%AE%80%E5%8D%95/</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jackyu123.gitee.io/tags/%E5%85%A5%E9%97%A8/</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jackyu123.gitee.io/tags/app/</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jackyu123.gitee.io/tags/%E8%80%83%E7%A0%94/</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jackyu123.gitee.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -392,84 +392,84 @@
   
   <url>
     <loc>https://jackyu123.gitee.io/categories/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jackyu123.gitee.io/categories/linux/</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jackyu123.gitee.io/categories/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jackyu123.gitee.io/categories/%E8%A7%86%E9%A2%91/</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jackyu123.gitee.io/categories/python/</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jackyu123.gitee.io/categories/%E5%8D%8E%E4%B8%BAod%E6%9C%BA%E8%AF%95/</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jackyu123.gitee.io/categories/%E8%A7%86%E9%A2%91/%E5%8D%8E%E4%B8%BA/</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jackyu123.gitee.io/categories/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/app/</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jackyu123.gitee.io/categories/%E5%8D%8E%E4%B8%BAod%E6%9C%BA%E8%AF%95/%E7%AE%80%E5%8D%95/</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jackyu123.gitee.io/categories/%E5%8D%8E%E4%B8%BAod%E6%9C%BA%E8%AF%95/%E5%85%A5%E9%97%A8/</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jackyu123.gitee.io/categories/%E8%A7%86%E9%A2%91/%E5%8D%8E%E4%B8%BA/%E4%BB%BB%E6%AD%A3%E9%9D%9E/</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://jackyu123.gitee.io/categories/%E8%80%83%E7%A0%94/</loc>
-    <lastmod>2021-03-03</lastmod>
+    <lastmod>2021-03-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
