@@ -6,7 +6,7 @@
   <link href="https://jackyu123.gitee.io/atom.xml" rel="self"/>
   
   <link href="https://jackyu123.gitee.io/"/>
-  <updated>2021-03-03T15:39:25.499Z</updated>
+  <updated>2021-04-05T15:29:29.609Z</updated>
   <id>https://jackyu123.gitee.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>shell解决字符串分割和比较</title>
+    <link href="https://jackyu123.gitee.io/2021/04/05/shell-jie-jue-zi-fu-chuan-fen-ge-he-bi-jiao/"/>
+    <id>https://jackyu123.gitee.io/2021/04/05/shell-jie-jue-zi-fu-chuan-fen-ge-he-bi-jiao/</id>
+    <published>2021-04-05T15:12:15.000Z</published>
+    <updated>2021-04-05T15:29:29.609Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="shell" scheme="https://jackyu123.gitee.io/categories/shell/"/>
+    
+    
+    <category term="字符串分割和比较" scheme="https://jackyu123.gitee.io/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%88%86%E5%89%B2%E5%92%8C%E6%AF%94%E8%BE%83/"/>
+    
+    <category term="shell" scheme="https://jackyu123.gitee.io/tags/shell/"/>
+    
+  </entry>
   
   <entry>
     <title>华为0d机试07-简单-汽水瓶</title>

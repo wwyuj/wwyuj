@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>shell解决字符串分割和比较</title>
+      <link href="2021/04/05/shell-jie-jue-zi-fu-chuan-fen-ge-he-bi-jiao/"/>
+      <url>2021/04/05/shell-jie-jue-zi-fu-chuan-fen-ge-he-bi-jiao/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="shell解决字符串分割和比较"><a href="#shell解决字符串分割和比较" class="headerlink" title="shell解决字符串分割和比较"></a>shell解决字符串分割和比较</h3><h4 id="shell代码"><a href="#shell代码" class="headerlink" title="shell代码"></a>shell代码</h4><pre class="line-numbers language-lang-shell"><code class="language-lang-shell"># 获取要比较的参数v_a="$1"v_b="$2"t=0#将v_a分割成数组OLD_IFS="$IFS"IFS="|"arr_a=($v_a)arr_b=($v_b)arr_tmp=()IFS="$OLD_IFS"lenth_a="$&#123;#arr_a[@]&#125;"lenth_b="$&#123;#arr_b[@]&#125;"# 判空if [ $lenth_a -eq 0 ];then   echo "false"   exit 1elif [ $lenth_b -eq 0 ];then   echo "false"   exit 1fiif [[ "$lenth_a" -gt  "$lenth_b" ]];then        # lenth_a 大于 lenth_b        for ((i=0;i<=$lenth_b-1;i++))        do                for ((j=0;j<=$lenth_a-1;j++))                do                if [[ $&#123;arr_a[j]&#125; ==  $&#123;arr_b[i]&#125; ]];then                        t=$((t+1))                        arr_tmp+=($&#123;arr_b[i]&#125;)                fi                done        done        if [[ "$lenth_b"  == $&#123;#arr_tmp[@]&#125; ]];then                echo "ture"        else                echo "false"        fielse        # lenth_a 小于 lenth_b        for ((i=0;i<=$lenth_a-1;i++))        do                for ((j=0;j<=$lenth_b-1;j++))                do                if [[ $&#123;arr_a[i]&#125;  == $&#123;arr_b[j]&#125; ]];then                        t=$((t+1))                        arr_tmp+=($&#123;arr_b[i]&#125;)                fi                done        done        if [[ "$lenth_b"  == $&#123;#arr_tmp[@]&#125; ]];then                echo "ture"        else                echo "false"        fifi<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h4 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h4><p><img src="/.io//shell字符串.png" alt></p><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> shell </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 字符串分割和比较 </tag>
+            
+            <tag> shell </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>华为0d机试07-简单-汽水瓶</title>
       <link href="2021/03/03/hua-wei-0d-ji-shi-07-jian-dan-qi-shui-ping/"/>
       <url>2021/03/03/hua-wei-0d-ji-shi-07-jian-dan-qi-shui-ping/</url>
