@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jackyu123.gitee.io/2021/04/07/sheng-cheng-liang-ge-zi-dong-hua-bao-gao/</loc>
+    
+    <lastmod>2021-04-06</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://jackyu123.gitee.io/2021/04/07/jmeter-zi-dong-hua-bao-gao-mo-ban/</loc>
     
     <lastmod>2021-04-06</lastmod>
@@ -425,6 +432,13 @@
   
   <url>
     <loc>https://jackyu123.gitee.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2021-04-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jackyu123.gitee.io/tags/%E7%94%9F%E6%88%90%E4%B8%A4%E4%B8%AA%E8%87%AA%E5%8A%A8%E5%8C%96%E6%8A%A5%E5%91%8A/</loc>
     <lastmod>2021-04-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

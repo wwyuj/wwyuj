@@ -6,7 +6,7 @@
   <link href="https://jackyu123.gitee.io/atom.xml" rel="self"/>
   
   <link href="https://jackyu123.gitee.io/"/>
-  <updated>2021-04-06T17:01:49.537Z</updated>
+  <updated>2021-04-06T17:06:30.424Z</updated>
   <id>https://jackyu123.gitee.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>生成两个自动化报告</title>
+    <link href="https://jackyu123.gitee.io/2021/04/07/sheng-cheng-liang-ge-zi-dong-hua-bao-gao/"/>
+    <id>https://jackyu123.gitee.io/2021/04/07/sheng-cheng-liang-ge-zi-dong-hua-bao-gao/</id>
+    <published>2021-04-06T16:47:05.000Z</published>
+    <updated>2021-04-06T17:06:30.424Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="jmeter" scheme="https://jackyu123.gitee.io/categories/jmeter/"/>
+    
+    <category term="jmeter" scheme="https://jackyu123.gitee.io/categories/jmeter/jmeter/"/>
+    
+    
+    <category term="jmeter" scheme="https://jackyu123.gitee.io/tags/jmeter/"/>
+    
+    <category term="生成两个自动化报告" scheme="https://jackyu123.gitee.io/tags/%E7%94%9F%E6%88%90%E4%B8%A4%E4%B8%AA%E8%87%AA%E5%8A%A8%E5%8C%96%E6%8A%A5%E5%91%8A/"/>
+    
+  </entry>
   
   <entry>
     <title>jmeter自动化报告模板</title>
