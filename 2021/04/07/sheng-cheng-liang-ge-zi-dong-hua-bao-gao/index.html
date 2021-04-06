@@ -625,7 +625,7 @@
                 <h3 id="生成多个html报告"><a href="#生成多个html报告" class="headerlink" title="生成多个html报告"></a>生成多个html报告</h3><blockquote>
 <p>我这里是生成两个，一个简单的汇总报告，一个详细的报告(用于定位接口报错)<br>build.xml文件只利用jmeter-results-detail-report_21.xsl生成了一个html报告，想利用jmeter-results-shanhe-me.xsl生成第二个</p>
 </blockquote>
-<pre class="line-numbers language-lang-xml"><code class="language-lang-xml">#1-添加属性
+<pre class="line-numbers language-lang-python"><code class="language-lang-python">#1-添加属性
 
 <property name="detail" value="_detail" />
 <property name="jmeter.result.jtlNamedetail" value="$&#123;jmeter.result.jtl.dir&#125;/$&#123;ReportName&#125;$&#123;time&#125;.jtl" />
@@ -730,7 +730,7 @@ mv -f /jmeter/report/*.html /jmeter/report/latest
 <h3 id="附录"><a href="#附录" class="headerlink" title="附录"></a>附录</h3><blockquote>
 <p>jmeter.results.shanhe.me.xsl</p>
 </blockquote>
-<pre class="line-numbers language-lang-xml"><code class="language-lang-xml"><?xml version="1.0"?>
+<pre class="line-numbers language-lang-python"><code class="language-lang-python"><?xml version="1.0"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
 <!--
